@@ -4,7 +4,7 @@ A modern web-based platform designed to simplify tax document uploads, invoice s
 
 ## 🎨 Figma Design Link
 
-[View the Figma Design](https://www.figma.com/design/j1wwQoWt0swgdc43oPFaft/Untitled?node-id=0-1&t=rFBMDc1baF7vdt18-1)
+[View the Figma Design](https://www.figma.com/design/j1wwQoWt0swgdc43oPFaft/Untitled?node-id=0-1&t=YMqcsL8VfWQhE5Ox-1)
 
 The UI is fully designed for both **desktop** and **mobile** experiences.
 
